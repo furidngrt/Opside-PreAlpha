@@ -50,10 +50,10 @@ opside-chain/show-validator-log.sh
 ### Upload deposit file
 
 If you are using MobaXTrem please download the Deposit file located at `/root/testnet-auto-install-v2/validator_keys/`
-![Screenshot_2](https://github.com/furidngrt/Opside-PreAlpha/assets/63885192/e687ad8a-0e0c-40fa-88a0-88574da2e9d1)
+<p align="center"><img height="150" height="auto" src="https://github.com/furidngrt/Opside-PreAlpha/assets/63885192/e687ad8a-0e0c-40fa-88a0-88574da2e9d1"></p>
 
-then please upload it here https://opside.network/validator/deposit
-![Screenshot_3](https://github.com/furidngrt/Opside-PreAlpha/assets/63885192/6a883979-461d-4125-b07a-b348cdcdc3d5)
+then upload it here https://opside.network/validator/deposit
+<p align="center"><img height="150" height="auto" src="https://github.com/furidngrt/Opside-PreAlpha/assets/63885192/6a883979-461d-4125-b07a-b348cdcdc3d5"></p>
 
 ### Connect wallet and confirm deposit
 
